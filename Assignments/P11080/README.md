@@ -13,3 +13,11 @@ and streets* of his country.<br>
 
 *This folder contains all source files, input files, display banners, and informational PDF's<br>
 that were used to solve and complete P11080 on the Online Judge website.*
+
+--------------------
+
+Soooo, this one was a little weird. In uDebug, I am getting correct output for every set of inputs...<br>
+***HOWEVER***<br>
+When I submit to the online judge website, it says wrong answer. I used my own method of<br>
+tracking the data and checking connections - long story short - checking whether the<br>
+graph is bipartite - as well as storing connections.
