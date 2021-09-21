@@ -18,6 +18,6 @@ that were used to solve and complete P10226 on the Online Judge website.*
 
  AGAIN... A LITTLE WEIRD... In uDebug, I am getting correct output for every set of inputs...<br>
 ***HOWEVER***<br>
-When I submit to the online judge website, it says compilation error. The program runs<br>
-perfectly in replit, and I'm not sure what error the website is throwing. I'm not even sure<br> 
-where to start to try to fix the problem I don't have in replit.
+When I submit to the online judge website, it says time limit exceeded. The program runs<br>
+perfectly in replit almost immediately, and I'm not sure what loop the website is getting<br>
+stuck in. I'm not even sure where to start to try to fix the problem.
