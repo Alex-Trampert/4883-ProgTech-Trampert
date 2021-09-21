@@ -21,3 +21,8 @@ that were used to solve and complete P10226 on the Online Judge website.*
 When I submit to the online judge website, it says time limit exceeded. The program runs<br>
 perfectly in replit almost immediately, and I'm not sure what loop the website is getting<br>
 stuck in. I'm not even sure where to start to try to fix the problem.
+
+--------------------
+Came back and looked at the problem again. Solved one issue where if the input does not end<br>
+with a blank line it would get stuck in a loop. Resubmitted to Online Judge and it **STILL**<br>
+says time limit exceeded. Now I really don't where to look.
