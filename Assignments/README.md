@@ -11,3 +11,4 @@
 | 07 | [P10194](./P10194) | Football (aka Soccer) | WIP |
 | 08 | [P900](./P900) | Brick Wall Patterns | Solved |
 | 09 | [P920](./P920) | Sunny Mountains | WIP |
+| 10 | [P10295](./P10295) | Hay Points | Solved |
