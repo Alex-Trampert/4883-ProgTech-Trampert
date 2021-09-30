@@ -26,3 +26,8 @@ stuck in. I'm not even sure where to start to try to fix the problem.
 Came back and looked at the problem again. Solved one issue where if the input does not end<br>
 with a blank line it would get stuck in a loop. Resubmitted to Online Judge and it **STILL**<br>
 says time limit exceeded. Now I really don't where to look.
+
+--------------------
+
+***FINAL UPDATE***<br>
+SOLVED using the <map> library
