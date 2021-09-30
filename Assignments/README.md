@@ -7,7 +7,7 @@
 | 03 | [P161](./P161) | Traffic Lights | Solved |
 | 04 | [P10038](./P10038) | Jolly Jumpers | Solved |
 | 05 | [P11080](./P11080) | Place The Guards | WIP |
-| 06 | [P10226](./P10226) | Hardwood Species | WIP |
+| 06 | [P10226](./P10226) | Hardwood Species | Solved |
 | 07 | [P10194](./P10194) | Football (aka Soccer) | WIP |
 | 08 | [P900](./P900) | Brick Wall Patterns | Solved |
 | 09 | [P920](./P920) | Sunny Mountains | WIP |
