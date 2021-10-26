@@ -12,3 +12,6 @@
 | 08 | [P900](./P900) | Brick Wall Patterns | Solved |
 | 09 | [P920](./P920) | Sunny Mountains | Solved |
 | 10 | [P10295](./P10295) | Hay Points | Solved |
+| 11 | [WIP](./) | Never Ending Towers of Hanoi | WIP |
+| 12 | [WIP](./) | Maximum Sum | WIP |
+| 13 | [P1112](./P1112) | Mice and Maze | Solved |
