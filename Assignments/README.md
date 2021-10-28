@@ -15,3 +15,4 @@
 | 11 | [P10017](./P10017) | Never Ending Towers of Hanoi | WIP |
 | 12 | [WIP](./) | Maximum Sum | WIP |
 | 13 | [P1112](./P1112) | Mice and Maze | Solved |
+| 14 | [P272](./P272) | TEX Quotes | Solved |
