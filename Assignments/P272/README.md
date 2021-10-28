@@ -1,4 +1,4 @@
-# ***TEX Quotes - 272***
+# ***TEX QUOTES - 272***
 
 ### **Input**<br>
 Input will consist of several lines of text containing an even number of double-quote (") characters.<br>
