@@ -16,3 +16,4 @@
 | 12 | [WIP](./) | Maximum Sum | WIP |
 | 13 | [P1112](./P1112) | Mice and Maze | Solved |
 | 14 | [P272](./P272) | TEX Quotes | Solved |
+| 15 | [P10071](./P10071) | Back to High School Physics | Solved |
