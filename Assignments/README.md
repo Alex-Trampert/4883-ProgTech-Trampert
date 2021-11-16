@@ -18,3 +18,4 @@
 | 14 | [P10071](./P10071) | Back to High School Physics | Solved |
 | 15 | [P10302](./P10302) | Summation of Polynomials | Solved |
 | 16 | [P531](./P531) | Compromise | Solved |
+| 17 | [P112](./P112) | Tree Summing | Solved |
