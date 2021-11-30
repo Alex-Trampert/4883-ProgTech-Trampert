@@ -2,7 +2,7 @@
 
 | Number | Folder | Description | Status |
 | :----: | ------ | ----------- | ------ |
-| 01 | [P10055](./P10055) | Hashmat the Brave Warrior | Solved |
+| 01 | [P10055](./A01/P10055) | Hashmat the Brave Warrior | Solved |
 | 02 | [P161](./P161) | Traffic Lights | Solved |
 | 03 | [P10038](./P10038) | Jolly Jumpers | Solved |
 | 04 | [P11080](./P11080) | Place The Guards | WIP |
