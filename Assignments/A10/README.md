@@ -1,0 +1,3 @@
+# Assignment 10 #
+## BRICK WALL PATTERNS - 900 ##
+## SUNNY MOUNTAINS - 920 ##
