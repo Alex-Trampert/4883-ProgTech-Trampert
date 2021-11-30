@@ -15,11 +15,13 @@
 | 11 | [A10](./A10/P900) | Brick Wall Patterns | Solved |
 | 12 | [A10](./A10/P920) | Sunny Mountains | Solved |
 | 13 | [A11](./A11) | Maximum Sum | WIP |
-| 14 | [A13](./A13/P1112) | Mice and Maze | Solved |
-| 15 | [A14](./A14/P272) | TEX Quotes | Solved |
-| 16 | [A14](./A14/P10071) | Back to High School Physics | Solved |
-| 17 | [A14](./A14/P10302) | Summation of Polynomials | Solved |
-| 18 | [A15](./A15/P531) | Compromise | Solved |
-| 19 | [A16](./A16) | Sorting Experiment | WIP |
-| 20 | [A17](./A17/P112) | Tree Summing | Solved |
-| 21 | [BONUS](./BONUS_PROGRAMS/P10295) | Hay Points | Solved |
+| 14 | A12 | 'Bye' Week | ✔ |
+| 15 | [A13](./A13/P1112) | Mice and Maze | Solved |
+| 16 | [A14](./A14/P272) | TEX Quotes | Solved |
+| 17 | [A14](./A14/P10071) | Back to High School Physics | Solved |
+| 18 | [A14](./A14/P10302) | Summation of Polynomials | Solved |
+| 19 | [A15](./A15/P531) | Compromise | Solved |
+| 20 | [A16](./A16) | Sorting Experiment | WIP |
+| 21 | [A17](./A17/P112) | Tree Summing | Solved |
+| 22 | A18 | Organization | ✔ |
+| 23 | [BONUS](./BONUS_PROGRAMS/P10295) | Hay Points | Solved |
