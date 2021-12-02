@@ -21,7 +21,7 @@
 | 17 | [A14](./A14/P10071) | Back to High School Physics | Solved |
 | 18 | [A14](./A14/P10302) | Summation of Polynomials | Solved |
 | 19 | [A15](./A15/P531) | Compromise | Solved |
-| 20 | [A16](./A16) | Sorting Experiment | WIP |
+| 20 | [A16](./A16) | Sorting Experiment | 2/3 |
 | 21 | [A17](./A17/P112) | Tree Summing | Solved |
 | 22 | A18 | Organization | ✔ |
 | 23 | [BONUS](./BONUS_PROGRAMS/P10295) | Hay Points | Solved |
